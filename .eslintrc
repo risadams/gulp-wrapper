@@ -2,7 +2,11 @@
 {
   "env": {
     "browser": false,
+    "es6": true,
     "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": "latest"
   },
   "rules": {
      "eqeqeq": 2,
