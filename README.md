@@ -1,8 +1,6 @@
 gulp-wrapper
 ============
-[![NPM version](https://badge.fury.io/js/gulp-wrapper.png)](http://badge.fury.io/js/@risadams/gulp-wrapper)
-
-> A [Gulp](https://github.com/wearefractal/gulp) plugin for wrapping files with custom strings.
+> A [Gulp](https://gulpjs.com/) plugin for wrapping files with custom strings.
 Basically `gulp-header` & `gulp-footer` together.
 With the addition that the filename is revealed to the user ( with ${filename} ).
 
